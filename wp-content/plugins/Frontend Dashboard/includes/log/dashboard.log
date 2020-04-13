@@ -1,0 +1,387 @@
+ 
+ 
+ ==================25/02/2020 16:24:36 (DEBUG) START================== 
+ 
+Array
+(
+    [fed_nonce] => 33ac4f2807
+    [_wp_http_referer] => /wp-admin/admin.php?page=fed_dashboard_menu
+    [menu_id] => 12
+    [fed_menu_slug] => shipping_address
+    [fed_menu_name] => Shipping Address
+    [menu_image_id] => fas fa-cart-plus
+    [fed_menu_order] => 
+    [user_role] => Array
+        (
+            [administrator] => Enable
+            [editor] => Enable
+            [author] => Enable
+            [contributor] => Enable
+            [subscriber] => Enable
+            [extra-user] => Enable
+            [customer] => Enable
+            [shop_manager] => Enable
+            [translator] => Enable
+        )
+
+    [fed_menu_value] => 6
+    [fed_menu_value_url] => Array
+        (
+            [target] => 
+            [url] => 
+        )
+
+)
+ 
+ 
+ ==================25/02/2020 16:24:36 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================25/02/2020 16:28:09 (DEBUG) START================== 
+ 
+Array
+(
+    [fed_nonce] => 33ac4f2807
+    [_wp_http_referer] => /wp-admin/admin.php?page=fed_dashboard_menu
+    [menu_id] => 12
+    [fed_menu_slug] => shipping_address
+    [fed_menu_name] => Shipping Address
+    [menu_image_id] => fas fa-cart-plus
+    [fed_menu_order] => 
+    [user_role] => Array
+        (
+            [administrator] => Enable
+            [editor] => Enable
+            [author] => Enable
+            [contributor] => Enable
+            [subscriber] => Enable
+            [extra-user] => Enable
+            [customer] => Enable
+            [shop_manager] => Enable
+            [translator] => Enable
+        )
+
+    [fed_menu_value] => 6
+    [fed_menu_value_url] => Array
+        (
+            [target] => 
+            [url] => 
+        )
+
+)
+ 
+ 
+ ==================25/02/2020 16:28:09 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================25/02/2020 16:29:05 (DEBUG) START================== 
+ 
+Array
+(
+    [fed_nonce] => 33ac4f2807
+    [_wp_http_referer] => /wp-admin/admin.php?page=fed_dashboard_menu
+    [menu_id] => 12
+    [fed_menu_slug] => shipping_address
+    [fed_menu_name] => Shipping Address
+    [menu_image_id] => fas fa-cart-plus
+    [fed_menu_order] => 1
+    [user_role] => Array
+        (
+            [administrator] => Enable
+            [editor] => Enable
+            [author] => Enable
+            [contributor] => Enable
+            [subscriber] => Enable
+            [extra-user] => Enable
+            [customer] => Enable
+            [shop_manager] => Enable
+            [translator] => Enable
+        )
+
+    [fed_menu_value] => 6
+    [fed_menu_value_url] => Array
+        (
+            [target] => 
+            [url] => 
+        )
+
+)
+ 
+ 
+ ==================25/02/2020 16:29:05 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================25/02/2020 16:29:47 (DEBUG) START================== 
+ 
+Array
+(
+    [fed_nonce] => 33ac4f2807
+    [_wp_http_referer] => /wp-admin/admin.php?page=fed_dashboard_menu
+    [menu_id] => 12
+    [fed_menu_slug] => shipping_address
+    [fed_menu_name] => Shipping Address
+    [menu_image_id] => fas fa-cart-plus
+    [fed_menu_order] => 1
+    [user_role] => Array
+        (
+            [administrator] => Enable
+            [editor] => Enable
+            [author] => Enable
+            [contributor] => Enable
+            [subscriber] => Enable
+            [extra-user] => Enable
+            [customer] => Enable
+            [shop_manager] => Enable
+            [translator] => Enable
+        )
+
+    [fed_menu_value] => 6
+    [fed_menu_value_url] => Array
+        (
+            [target] => 
+            [url] => 
+        )
+
+)
+ 
+ 
+ ==================25/02/2020 16:29:47 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================25/02/2020 16:30:12 (DEBUG) START================== 
+ 
+Array
+(
+    [fed_nonce] => 33ac4f2807
+    [_wp_http_referer] => /wp-admin/admin.php?page=fed_dashboard_menu
+    [menu_id] => 14
+    [fed_menu_slug] => no_admin
+    [fed_menu_name] => No Admin
+    [menu_image_id] => fas fa-bullhorn
+    [fed_menu_order] => 1
+    [user_role] => Array
+        (
+            [editor] => Enable
+            [contributor] => Enable
+            [subscriber] => Enable
+            [extra-user] => Enable
+            [customer] => Enable
+            [shop_manager] => Enable
+            [translator] => Enable
+        )
+
+    [fed_menu_key] => yes
+    [fed_menu_value] => 2
+    [fed_menu_value_url] => Array
+        (
+            [target] => 
+            [url] => 
+        )
+
+)
+ 
+ 
+ ==================25/02/2020 16:30:12 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================25/02/2020 16:30:19 (DEBUG) START================== 
+ 
+Array
+(
+    [fed_nonce] => 33ac4f2807
+    [_wp_http_referer] => /wp-admin/admin.php?page=fed_dashboard_menu
+    [menu_id] => 12
+    [fed_menu_slug] => shipping_address
+    [fed_menu_name] => Shipping Address
+    [menu_image_id] => fas fa-bell
+    [fed_menu_order] => 1
+    [user_role] => Array
+        (
+            [administrator] => Enable
+            [editor] => Enable
+            [author] => Enable
+            [contributor] => Enable
+            [subscriber] => Enable
+            [extra-user] => Enable
+            [customer] => Enable
+            [shop_manager] => Enable
+            [translator] => Enable
+        )
+
+    [fed_menu_value] => 6
+    [fed_menu_value_url] => Array
+        (
+            [target] => 
+            [url] => 
+        )
+
+)
+ 
+ 
+ ==================25/02/2020 16:30:19 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================25/02/2020 16:30:32 (DEBUG) START================== 
+ 
+Array
+(
+    [fed_nonce] => 33ac4f2807
+    [_wp_http_referer] => /wp-admin/admin.php?page=fed_dashboard_menu
+    [fed_menu_name] => test
+    [fed_menu_slug] => test
+    [menu_image_id] => fas fa-bullseye
+    [fed_menu_order] => 3
+    [user_role] => Array
+        (
+            [administrator] => Enable
+            [editor] => Enable
+            [author] => Enable
+            [contributor] => Enable
+            [subscriber] => Enable
+            [extra-user] => Enable
+            [customer] => Enable
+            [shop_manager] => Enable
+            [translator] => Enable
+        )
+
+    [fed_menu_value] => 6
+    [fed_menu_value_url] => Array
+        (
+            [target] => 
+            [url] => 
+        )
+
+)
+ 
+ 
+ ==================25/02/2020 16:30:32 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================25/02/2020 16:30:37 (DEBUG) START================== 
+ 
+Array
+(
+    [fed_nonce] => 33ac4f2807
+    [_wp_http_referer] => /wp-admin/admin.php?page=fed_dashboard_menu
+    [fed_menu_name] => testddd
+    [fed_menu_slug] => testddd
+    [menu_image_id] => fas fa-bullseye
+    [fed_menu_order] => 3
+    [user_role] => Array
+        (
+            [administrator] => Enable
+            [editor] => Enable
+            [author] => Enable
+            [contributor] => Enable
+            [subscriber] => Enable
+            [extra-user] => Enable
+            [customer] => Enable
+            [shop_manager] => Enable
+            [translator] => Enable
+        )
+
+    [fed_menu_value] => 6
+    [fed_menu_value_url] => Array
+        (
+            [target] => 
+            [url] => 
+        )
+
+)
+ 
+ 
+ ==================25/02/2020 16:30:37 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================25/02/2020 16:30:44 (DEBUG) START================== 
+ 
+Array
+(
+    [fed_nonce] => 33ac4f2807
+    [_wp_http_referer] => /wp-admin/admin.php?page=fed_dashboard_menu
+    [menu_id] => 16
+    [fed_menu_slug] => testddd
+    [fed_menu_name] => testddd
+    [menu_image_id] => fas fa-bullseye
+    [fed_menu_order] => 3
+    [user_role] => Array
+        (
+            [administrator] => Enable
+            [editor] => Enable
+            [author] => Enable
+            [contributor] => Enable
+            [subscriber] => Enable
+            [extra-user] => Enable
+            [customer] => Enable
+            [shop_manager] => Enable
+            [translator] => Enable
+        )
+
+    [fed_menu_value] => 117
+    [fed_menu_value_url] => Array
+        (
+            [target] => 
+            [url] => 
+        )
+
+)
+ 
+ 
+ ==================25/02/2020 16:30:44 (DEBUG) END================== 
+ 
+ 
+ 
+ 
+ ==================25/02/2020 16:42:42 (DEBUG) START================== 
+ 
+Array
+(
+    [fed_nonce] => 33ac4f2807
+    [_wp_http_referer] => /wp-admin/admin.php?page=fed_dashboard_menu
+    [menu_id] => 12
+    [fed_menu_slug] => shipping_address
+    [fed_menu_name] => Shipping Address
+    [menu_image_id] => fas fa-bell
+    [fed_menu_order] => 1
+    [user_role] => Array
+        (
+            [administrator] => Enable
+            [editor] => Enable
+            [author] => Enable
+            [contributor] => Enable
+            [subscriber] => Enable
+            [extra-user] => Enable
+            [customer] => Enable
+            [shop_manager] => Enable
+            [translator] => Enable
+        )
+
+    [fed_menu_value] => 6
+    [fed_menu_value_url] => Array
+        (
+            [target] => 
+            [url] => 
+        )
+
+)
+ 
+ 
+ ==================25/02/2020 16:42:42 (DEBUG) END================== 
+ 
+ 

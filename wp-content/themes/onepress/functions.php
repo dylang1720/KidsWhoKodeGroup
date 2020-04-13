@@ -58,6 +58,7 @@ if ( ! function_exists( 'onepress_setup' ) ) :
 		register_nav_menus(
 			array(
 				'primary'      => esc_html__( 'Primary Menu', 'onepress' ),
+				'Dashboard'      => esc_html__( 'Dashboard Menu', 'onepress' ),
 			)
 		);
 
